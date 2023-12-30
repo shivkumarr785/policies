@@ -1,0 +1,27 @@
+Privacy Policy for Financial Calculator India
+
+SR Enterprise
+Pune
+MH IN s.r.enterprise.ofcl@gmail.com
+20/12/2023
+
+1. Overview
+We, SR Enterprise, are committed to protecting the privacy of our users. This Privacy Policy explains how we collect, use, and safeguard your personal information when you use our mobile application, Financial Calculator India.
+
+2. Information We Don't Collect
+We do not collect any personal information from users of our app, nor do we share any user data with third parties.
+
+3. Permissions
+Our app may require certain device permissions for its core functionality, such as access to internet, storage, or location. These permissions are used solely for the intended purpose of the app and are not stored or shared.
+
+4. Data Security
+We prioritize the security of your data. While our app may request certain permissions, rest assured that we do not store or transmit any user data to external servers.
+
+5. Changes to Privacy Policy
+We reserve the right to update our Privacy Policy at any time. Users will be notified of any changes within the app. It is advisable to review this policy periodically.
+
+6. Google Play Store Requirements
+As our app is distributed on the Google Play Store, we comply with Google's privacy requirements. Even though our app does not collect personal information, we provide this privacy policy to inform users about our data practices.
+
+7. Contact Us
+If you have any questions or concerns regarding this Privacy Policy, please contact us at s.r.enterprise.ofcl@gmail.com.
